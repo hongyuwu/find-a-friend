@@ -1,1 +1,5 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="LAuo)OD%356n:|VG9QM9" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="G,3/zq+xoC+VjaYKx,C6">阿伟</variable></variables><block type="pxt-on-start" id="1Pvl$38v:rzPmRCCmzHk" x="0" y="0"><statement name="HANDLER"><block type="custom_init" id="l{Ye~[HSQW?A|Pl=u9ZV"></block></statement></block><block type="keyonevent" id="ERMyL8=-m2@4akJG#|M," x="205" y="0"><field name="button">controller.B</field><field name="event">ControllerButtonEvent.Pressed</field><comment pinned="false" h="80" w="160">- 已经互相认识的朋友会用线连起来。
+
+- 每个人都可以通过朋友介绍认识更多的人。
+
+- 那么佩奇能不能认识到兔子这个新朋友呢？按下B后给出正确答案</comment><statement name="HANDLER"><block type="custom_pageCanMeetRabbid" id="_bVMN!1F]pjkgjX1g3/S"></block></statement></block></xml>
